@@ -1,4 +1,6 @@
+// cd ~/projects/hypr-workspaces-tools
 // g++ -O2 -std=c++20 -o organize_workspaces organize_workspaces.cpp -ljsoncpp
+// ./organize_workspaces
 // Intended for use with a Firefox extension that prefixes each window title
 // with "[N]" where N is the target Hyprland workspace number.
 //
